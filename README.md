@@ -1,0 +1,2 @@
+# nuxt
+study of nuxt
